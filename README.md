@@ -1,1 +1,1 @@
-# Supermarket-Program
+This is a simple console-based python program where you enter a supermarket with 1000$ in your bank account. You need to buy groceries in the supermarket and you're given a list of items that you can buy, you can choose the item by using the index, i.e. a, b, c, d, e, f or type "enough" to exit the program. You can buy any quantity of items that costs less than a 1000$ which is your bank balance. You cannot buy any item if your bank account doesn't have a required amount of money to buy a certain item.
